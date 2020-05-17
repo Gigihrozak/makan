@@ -1,0 +1,29 @@
+{
+    "posts": [
+        {
+            "id": "5",
+            "nama": "Ikan",
+            "img": "https://hellosehat.com/wp-content/uploads/2018/12/ikan-paling-sehat-700x467.jpg"
+        },
+        {
+            "id": "4",
+            "nama": "Brokoli",
+            "img": "https://hellosehat.com/wp-content/uploads/2017/11/4-Resep-Kreasi-Brokoli-yang-Bisa-Buat-Anda-Sehat-8"
+        },
+        {
+            "id": "3",
+            "nama": "Putih telur",
+            "img": "https://hellosehat.com/wp-content/uploads/2017/10/telur-rebus-701x467.jpg"
+        },
+        {
+            "id": "2",
+            "nama": "Apel",
+            "img": "https://hellosehat.com/wp-content/uploads/2016/08/buah-apel-700x467.jpg"
+        },
+        {
+            "id": "1",
+            "nama": "Oatmeal",
+            "img": "https://cdn-brilio-net.akamaized.net/news/2018/11/07/154644/943347-1000xauto-25-makanan-enak-yang-co"
+        }
+    ]
+}
